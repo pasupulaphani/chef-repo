@@ -2,3 +2,8 @@ chef-repo
 =========
 
 My cookbooks
+
+
+## [ssh-auth](https://supermarket.chef.io/cookbooks/ssh-auth) [![Chef cookbook](https://img.shields.io/cookbook/v/ssh-auth.svg)](https://supermarket.chef.io/cookbooks/ssh-auth) [![Build Status](https://drone.io/bitbucket.org/ppasupula/chef-ssh-auth/status.png)](https://drone.io/bitbucket.org/ppasupula/chef-ssh-auth/latest) [![Hex.pm](http://img.shields.io/hexpm/l/plug.svg)]() 
+
+## [users-auth](https://supermarket.chef.io/cookbooks/users-auth) [![Chef cookbook](https://img.shields.io/cookbook/v/users-auth.svg)](https://supermarket.chef.io/cookbooks/users-auth) [![Build Status](https://drone.io/bitbucket.org/ppasupula/chef-users-auth/status.png)](https://drone.io/bitbucket.org/ppasupula/chef-users-auth/latest) [![Hex.pm](http://img.shields.io/hexpm/l/plug.svg)]() 
