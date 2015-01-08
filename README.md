@@ -14,3 +14,6 @@ Configures ssh and provides some utils for auth keys. [Read more](https://superm
 Create users and set ssh auth keys. [Read more](https://supermarket.chef.io/cookbooks/users-auth)
 
 ----------------
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pasupulaphani/chef-repo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
